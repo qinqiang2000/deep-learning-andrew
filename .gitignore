@@ -35,3 +35,6 @@ spam*/
  
 # JIRA plugin
 atlassian-ide-plugin.xml
+
+.ipynb*/
+ResNet50.h5
