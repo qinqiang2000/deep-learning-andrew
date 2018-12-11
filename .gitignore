@@ -38,3 +38,4 @@ atlassian-ide-plugin.xml
 
 .ipynb*/
 ResNet50.h5
+glove.6B.50d.txt
