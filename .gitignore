@@ -39,5 +39,4 @@ atlassian-ide-plugin.xml
 .ipynb*/
 ResNet50.h5
 glove.6B.50d.txt
-week3_Trigger word detection/XY_dev/*
-week3_Trigger word detection/XY_train/*
+Sequence Models/week3_Trigger word detection/XY*/
